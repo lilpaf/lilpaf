@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+My name is Pavel Stoyanov - Student at SoftUni and UNWE.
+I live in Sofia and study C# Development at SoftUni and Industrial business in UNWE.
 
-<!--
-**lilpaf/lilpaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :fountain_pen: Education 
 
-Here are some ideas to get you started:
+I enjoy programming I have big intrest in games and AI. Cerently I am codeing on C# but I also have little experence with Phyton and JS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :bookmark_tabs: Certificates from SoftUni
+
+* [Software University - C# Basics - July 2021](https://softuni.bg/users/profile/certificates?username=lil_paf)
+* [Software University - C# Fundamentals - September 2021](https://softuni.bg/users/profile/certificates?username=lil_paf)
+* [Software University - C# Advanced - January 2022](https://softuni.bg/users/profile/certificates?username=lil_paf)
+* [Software University - C# OOP - February 2022](https://softuni.bg/users/profile/certificates?username=lil_paf)
