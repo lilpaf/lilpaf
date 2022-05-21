@@ -1,10 +1,11 @@
 # Hi there 👋
 My name is Pavel Stoyanov - Student at SoftUni and UNWE.
+
 I live in Sofia and study C# Development at SoftUni and Industrial business in UNWE.
 
 ### :fountain_pen: Education 
 
-I enjoy programming I have big intrest in games and AI. Cerently I am codeing on C# but I also have little experence with Phyton and JS.
+I enjoy programming I have big intrest in games, AI and the FinTech industry. Cerently I am codeing on C# but I also have little experence with Phyton and JS.
 * Currently studying: C# DB in SoftUni
 
 ### :bookmark_tabs: Certificates from SoftUni
@@ -16,4 +17,7 @@ I enjoy programming I have big intrest in games and AI. Cerently I am codeing on
 
 ### :joystick: Free Time
 In my free time I practice my programming and sometimes play video games. When I am not in front of the PC I train at the gym or outdoors and hang out with friends. 
+
+## :iphone: Socials:
+[LinkedIn](https://www.linkedin.com/in/pavel-stoyanov-132909209/)  
 
