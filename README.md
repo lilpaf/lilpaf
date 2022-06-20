@@ -20,6 +20,7 @@ I enjoy programming I have big intrest in games, AI and the FinTech industry. Ce
 * [Software University - C# Fundamentals - September 2021](https://softuni.bg/certificates/details/119976/ea1f09ac)
 * [Software University - C# Advanced - January 2022](https://softuni.bg/certificates/details/123678/7e10e821)
 * [Software University - C# OOP - February 2022](https://softuni.bg/certificates/details/131012/ada19a35)
+* [Software University - MS SQL - May 2022](https://softuni.bg/certificates/details/134766/ddcee59c)
 
 ### :joystick: Free Time
 In my free time I practice my programming and sometimes play video games. When I am not in front of the PC I train at the gym or outdoors and hang out with friends. 
