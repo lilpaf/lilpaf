@@ -24,7 +24,7 @@ I enjoy programming I have big intrest in games, AI and the FinTech industry. Ce
 * [Software University - Entity Framework Core - June 2022](https://softuni.bg/certificates/details/138302/b72a57c0)
 
 ### :joystick: Free Time
-In my free time I practice my programming and sometimes play video games. When I am not in front of the PC I train at the gym or outdoors and hang out with friends. 
+In my free time I practice my programming skills and sometimes play video games. When I am not in front of the PC I train at the gym or outdoors and hang out with friends. 
 
 ## :iphone: Socials:
 [LinkedIn](https://www.linkedin.com/in/pavel-stoyanov-132909209/)  
