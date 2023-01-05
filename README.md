@@ -12,7 +12,7 @@ I enjoy programming I have big intrest in games, AI and the FinTech industry. Ce
 | C#               | HTML             |
 | SQL              | CSS              |
 
-* Currently studying: C# Web in SoftUni
+* Currently studying: JS and React
 
 ### :bookmark_tabs: Certificates from SoftUni
 
@@ -22,6 +22,8 @@ I enjoy programming I have big intrest in games, AI and the FinTech industry. Ce
 * [Software University - C# OOP - February 2022](https://softuni.bg/certificates/details/131012/ada19a35)
 * [Software University - MS SQL - May 2022](https://softuni.bg/certificates/details/134766/ddcee59c)
 * [Software University - Entity Framework Core - June 2022](https://softuni.bg/certificates/details/138302/b72a57c0)
+* [Software University - ASP.NET Fundamentals - September 2022](https://softuni.bg/certificates/details/146540/1a68f6cf)
+* [Software University - ASP.NET Advanced - October 2022](https://softuni.bg/certificates/details/152293/27bd33fa)
 
 ### :joystick: Free Time
 In my free time I practice my programming skills and sometimes play video games. When I am not in front of the PC I train at the gym or outdoors and hang out with friends. 
