@@ -12,8 +12,6 @@ I enjoy programming I have big intrest in games, AI and the FinTech industry. Ce
 | C#               | HTML             |
 | SQL              | CSS              |
 
-* Currently studying: JS and React
-
 ### :bookmark_tabs: Certificates from SoftUni
 
 * [Software University - C# Basics - July 2021](https://softuni.bg/certificates/details/112173/1fc4ddd0)
