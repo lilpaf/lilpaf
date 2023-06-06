@@ -5,7 +5,7 @@ I live in Sofia and work as .NET Developer also I study Industrial business in U
 
 ### :fountain_pen: Education 
 
-I enjoy programming I have big intrest in games, AI and the FinTech industry. Cerently I am codeing on C# but I also have experence with Phyton, JS TS and a bit with R.
+I enjoy programming I have big intrest in games, AI and the FinTech industry. Cerently I am codeing on C# but I also have experence with Python, JS TS and a bit with R.
 
 | Coding Languages | Markup Languages |  
 |------------------|------------------|
@@ -13,7 +13,7 @@ I enjoy programming I have big intrest in games, AI and the FinTech industry. Ce
 | SQL              | CSS              |
 | JS               | 
 | TS               |
-| Phyton           |
+| Python           |
 | R                |
 ### :bookmark_tabs: Certificates from SoftUni
 
