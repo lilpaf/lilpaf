@@ -1,7 +1,7 @@
 # Hi there 👋
-My name is Pavel Stoyanov - Student at SoftUni and UNWE.
+My name is Pavel Stoyanov - Student at UNWE.
 
-I live in Sofia and study C# Development at SoftUni and Industrial business in UNWE.
+I live in Sofia and work as .NET Developer also I study Industrial business in UNWE.
 
 ### :fountain_pen: Education 
 
