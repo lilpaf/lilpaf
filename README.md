@@ -5,14 +5,14 @@ I live in Sofia and study C# Development at SoftUni and Industrial business in U
 
 ### :fountain_pen: Education 
 
-I enjoy programming I have big intrest in games, AI and the FinTech industry. Cerently I am codeing on C# but I also have little experence with Phyton and JS.
+I enjoy programming I have big intrest in games, AI and the FinTech industry. Cerently I am codeing on C# but I also have experence with Phyton and JS.
 
 | Coding Languages | Markup Languages |  
 |------------------|------------------|
 | C#               | HTML             |
 | SQL              | CSS              |
 | JS               |  
-
+| Phyton           |
 ### :bookmark_tabs: Certificates from SoftUni
 
 * [Software University - C# Basics - July 2021](https://softuni.bg/certificates/details/112173/1fc4ddd0)
