@@ -11,6 +11,7 @@ I enjoy programming I have big intrest in games, AI and the FinTech industry. Ce
 |------------------|------------------|
 | C#               | HTML             |
 | SQL              | CSS              |
+| JS               |  
 
 ### :bookmark_tabs: Certificates from SoftUni
 
