@@ -15,7 +15,7 @@ I enjoy programming I have big intrest in games, AI and the FinTech industry. Ce
 | TS               |
 | Python           |
 | R                |
-### :bookmark_tabs: Certificates from SoftUni
+### :bookmark_tabs: Certificates
 
 * [Software University - C# Basics - July 2021](https://softuni.bg/certificates/details/112173/1fc4ddd0)
 * [Software University - C# Fundamentals - September 2021](https://softuni.bg/certificates/details/119976/ea1f09ac)
@@ -25,7 +25,8 @@ I enjoy programming I have big intrest in games, AI and the FinTech industry. Ce
 * [Software University - Entity Framework Core - June 2022](https://softuni.bg/certificates/details/138302/b72a57c0)
 * [Software University - ASP.NET Fundamentals - September 2022](https://softuni.bg/certificates/details/146540/1a68f6cf)
 * [Software University - ASP.NET Advanced - October 2022](https://softuni.bg/certificates/details/152293/27bd33fa)
-
+* [Google - Foundations of Cybersecurity - June 2023](https://www.coursera.org/verify/59G4BVH52YMB)
+* [Great Learning - Machine Learning Algorithms - June 2023](https://verify.mygreatlearning.com/verify/BGWQVZKF)
 ### :joystick: Free Time
 In my free time I practice my programming skills and sometimes play video games. When I am not in front of the PC I train at the gym or outdoors and hang out with friends. 
 
