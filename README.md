@@ -1,7 +1,7 @@
 # Hi there 👋
-My name is Pavel Stoyanov - Student at UNWE.
+My name is Pavel Stoyanov
 
-I live in Sofia and work as .NET Developer in the FinTech industry also I study Industrial business in UNWE.
+I live in Sofia and work as .NET Developer in the FinTech industry.
 
 ### :fountain_pen: Education 
 
