@@ -1,7 +1,7 @@
 # Hi there 👋
 My name is Pavel Stoyanov
 
-I live in Sofia and work as .NET Developer in the FinTech industry.
+I live in Sofia and work as .NET Developer.
 
 ### :fountain_pen: Education 
 
